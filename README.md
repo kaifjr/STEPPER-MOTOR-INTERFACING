@@ -76,3 +76,4 @@ DATA:    DB 09H, 05H, 06H, 0AH ; Array of data
 ![stepper motor](https://github.com/user-attachments/assets/0b34bc8b-3845-4fb3-a300-065792444e13)
 
 ## RESULT
+Thus, the Assembly Language Programs for 8086 to perform arithmetic operations (Addition, Subtraction, Multiplication, and Division) using both direct and indirect methods were successfully written and executed 
