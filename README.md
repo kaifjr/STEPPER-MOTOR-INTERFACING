@@ -1,3 +1,6 @@
+NAME : KAIF MOHAMED P
+REG NO : 212222043004
+
 # STEPPER MOTOR INTERFACING
 
 ## AIM
@@ -70,7 +73,6 @@ L1:      DEC DX
 DATA:    DB 09H, 05H, 06H, 0AH ; Array of data
 ```
 ## OUTPUT OF THE PROGRAM:
+![stepper motor](https://github.com/user-attachments/assets/0b34bc8b-3845-4fb3-a300-065792444e13)
 
 ## RESULT
-
-Thus, the assembly language program for rotating the stepper motor in both clockwise and anticlockwise directions was written and verified.
